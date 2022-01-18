@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad. Let's Connect</h1>
 
-<img align="center" src="cover-photo.png" > <br>
+<p align="center"><img  src="cover-photo.png"></p>
+
+# 
+
+<!--About myself!-->
 <p>
-- 🔭 I’m currently working on Python, java, django. <br>
-- 🌱 I’m currently learning computer vision and quantum computing. <br>
-- 👯 I’m looking to collaborate with any progressive organization . <br>
-- 💬 Ask me about Python, Java. <br>
-- 📫 Reach me at: muahmad710@gmail.com. <br>
-- 😄 Fun fact: I like discussing about football. <br>
+  - 🔭 I’m currently working on <b>Python, java, django.</b> <br>
+- 🌱 I’m currently learning <b>Computer vision and Quantum computing.</b> <br>
+- 👯 I’m looking to collaborate with any <b> Progressive </b> organization  . <br>
+- 💬 Ask me about <b> Python, Java. </b><br>
+- 📫 Reach me at: <b> muahmad710@gmail.com </b> <br>
+- 😄 Fun fact: I like discussing about <b>football </b>. <br>
 </p>
 
 #
