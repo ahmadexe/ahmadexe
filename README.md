@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad. Let's Connect</h1>
+<img src="wavehand.gif" width="15px"> I'm Muhammad Ahmad. Let's Connect<br>
 
 <p align="center"><img  src="cover-photo.png"></p>
 
