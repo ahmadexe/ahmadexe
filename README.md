@@ -37,9 +37,10 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmadexe" /></a> </p>
 
-<a href="https://github.com/Ahamdexe" align = "center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Ahmadexe&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadexe&layout=compact&langs_count=7&theme=dracula"/>
+<p><img align="left" width="300" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmadexe&show_icons=true&locale=en&layout=compact" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmadexe&show_icons=true&locale=en" alt="Ahamdexe" /></p>
+
 
 #
 
