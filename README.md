@@ -24,6 +24,8 @@
 <a href="https://twitter.com/Ahmads_exe?t=r54HYKCYZtskQucJ28GHIQ&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
 <a href="https://web.facebook.com/ahmedious1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ahmadexe" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ahmads.exe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
+
+ </a>
 </p>
 
 #
