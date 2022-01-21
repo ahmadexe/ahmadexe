@@ -25,7 +25,7 @@
   <br/>
   
      
-     
+#     
 <!--Social Icons !-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -44,6 +44,8 @@
 
 
 #
+
+![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
 
 <!--Profile Stats !-->
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmadexe" /></a> </p>
