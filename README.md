@@ -18,7 +18,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmadexe&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmadexe" /> </p>
 
 #
-
+<img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+     
+     
 <!--Social Icons !-->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,9 +41,9 @@
 #
 
 <!--Profile Stats !-->
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmadexe" /></a> </p>
+<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmadexe" /></a> </p>
 <p><img align="left" width="300" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmadexe&show_icons=true&locale=en&layout=compact" /></p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmadexe&show_icons=true&locale=en" alt="Ahamdexe" /></p>
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmadexe&show_icons=true&locale=en" alt="Ahamdexe" /></p> -->
 
 
 #
