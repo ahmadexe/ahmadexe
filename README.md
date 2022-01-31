@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate with any <b> Progressive </b> organization  . <br>
 - 💬 Ask me about <b> Python, C/C++, Java, Dart, OpenCV </b><br>
 - 📫 Reach me at: <b> muahmad710@gmail.com </b> <br>
-- 😄 Fun fact: I like discussing about <b>football & physics</b>. <br>
+- 😄 Fun fact: I like discussing about <b>computers, football & physics</b>. <br>
 </p>
 
 <!--:Profile views Counter!-->
