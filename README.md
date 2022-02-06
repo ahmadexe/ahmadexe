@@ -9,10 +9,11 @@
   - 🔭 I’m currently working on <b>Python, Dart, Android Studio, OpenCV, MediaPipe,Django.</b> <br>
 - 🌱 I’m currently learning <b>Flutter, TensorFlow, Keras, PyTorch, ML, Deep learning and AI.</b> <br>
 - ✒️ A freelance teacher, <b>teaching Python, C, C++, Dart, Java.</b> <br>
+- 👨‍💻 Leading <b>Programming team @IEEE CUI.</b> <br>
 - 👯 I’m looking to collaborate with any <b> Progressive </b> organization  . <br>
-- 💬 Ask me about <b> Python, C/C++, Java, Dart, OpenCV </b><br>
+- 💬 Ask me about <b> Python, C/C++, Java, Dart, OpenCV. </b><br>
 - 📫 Reach me at: <b> muahmad710@gmail.com </b> <br>
-- 😄 Fun fact: I like discussing about <b>computers, football & physics</b>. <br>
+- 😄 Fun fact: I like discussing about <b>computers, football & physics.</b>. <br>
 </p>
 
 <!--:Profile views Counter!-->
