@@ -59,7 +59,7 @@
 <img src="https://img.shields.io/badge/Tensorflow-000000?style=for-the-badge&logo=Tensorflow&logoColor=white%22" />
 <img src="https://img.shields.io/badge/Pytorch-FFFFFF?style=for-the-badge&logo=pytorch&logoColor=black%22" /> 
 <img src="https://img.shields.io/badge/OPENCV-808080?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/VS-Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=blue/>
+<img src="https://img.shields.io/badge/VS-Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
 
 
 </div>
