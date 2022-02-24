@@ -66,4 +66,10 @@
 
 <br>
 
+##
+<!--Snake Animation!-->
+![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
+
+##
+
 
