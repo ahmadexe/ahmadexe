@@ -28,14 +28,16 @@
   
      
 #     
-<!--Social Icons !-->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/Ahmads_exe?t=r54HYKCYZtskQucJ28GHIQ&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-<a href="https://web.facebook.com/ahmedious1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Ahmadexe" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ahmads.exe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" /></a>
 
- </a>
+<p align="left">
+<h3 align="left">Connect with me:</h3>
+<a href = ""><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/code.png"/></a>
+<a href = ""><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+
 </p>
 
 #
