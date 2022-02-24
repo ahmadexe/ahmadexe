@@ -67,15 +67,3 @@
 <br>
 
 
-#
-
-![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
-
-<!--Profile Stats !-->
-<!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Ahmadexe" /></a> </p>
-<p><img align="left" width="300" height="230" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ahmadexe&show_icons=true&locale=en&layout=compact" /></p>
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmadexe&show_icons=true&locale=en" alt="Ahamdexe" /></p> -->
-
-
-#
-
