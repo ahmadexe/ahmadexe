@@ -29,8 +29,8 @@
      
 #     
 <!--:Social Media Links!-->
-<p align="left">
-<h3 align="left">Connect with me:</h3>
+<p align="center">
+<h3 align="center">Connect with me</h3>
 <a href = "https://web.facebook.com/ahmedious1/"><img src="https://img.icons8.com/color/48/000000/facebook.png"/></a>
 <a href = "https://www.instagram.com/ahmads.exe/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.linkedin.com/mwlite/in/muhammad-ahmad-25155a1b0"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
