@@ -19,11 +19,13 @@
 <!--:Profile views Counter!-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmadexe&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmadexe" /> </p>
 
-## My Github Stats
+#
+<div align="center">
+<h3 align="center">My GitHub Stats!</h3>
 
   <br/>
-    <a href="https://github.com/Ahmadexe"><img alt="Syed Muhammad Ahmad's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmadexe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/Ahmadexe"><img alt="Syed Muhammad Ahmad Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadexe&langs_count=10&hide=html&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Ahmadexe"><img alt="Syed Muhammad Ahmad's Github Stats" align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmadexe&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Ahmadexe"><img alt="Syed Muhammad Ahmad Top Languages" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadexe&langs_count=10&hide=html&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   
      
