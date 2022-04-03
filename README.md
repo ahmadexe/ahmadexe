@@ -8,7 +8,7 @@
 <p>
   - 🔭 I’m currently working on <b>Python, Dart, Android Studio, OpenCV, MediaPipe,Django.</b> <br>
 - 🌱 I’m currently learning <b>Flutter, TensorFlow, Keras, PyTorch, ML, Deep learning and AI.</b> <br>
-- ✒️ A freelance teacher, <b>teaching Python, C, C++, Dart, Java.</b> <br>
+- ✒️ A freelance teacher, <b>teaching Python, C, C++, Dart, Java, Object Oriented Programming, Data Structures & Algorithms.</b> <br>
 - 👨‍💻 Leading <b>Programming team @IEEE CUI.</b> <br>
 - 👯 I’m looking to collaborate with any <b> Progressive </b> organization  . <br>
 - 💬 Ask me about <b> Python, C/C++, Java, Dart, OpenCV. </b><br>
