@@ -72,7 +72,4 @@
 #
 
 <!--Snake Animation!-->
-<div align="center">
-<h3 align="center">A Cliche Snake Game</h3>
-</div>
 ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
