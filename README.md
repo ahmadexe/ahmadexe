@@ -71,5 +71,8 @@
 
 #
 
+<h3 align="center">A Very Cliché Snake Animation</h3>
+
+#
 <!--Snake Animation!-->
 ![Snake animation](https://github.com/Lucbm99/Lucbm99/blob/output/github-contribution-grid-snake.svg)
