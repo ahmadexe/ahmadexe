@@ -37,7 +37,6 @@
 <a href = "https://www.instagram.com/ahmads.exe/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.linkedin.com/mwlite/in/muhammad-ahmad-25155a1b0"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://stackoverflow.com/users/15826198/muhammad-ahmad"><img src="https://img.icons8.com/fluent/48/000000/stack-overflow.png"/></a>
-<!-- <a href = "https://wa.me/+923094887650"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a> -->
 <a href = "https://twitter.com/Ahmads_exe?t=r54HYKCYZtskQucJ28GHIQ&s=08"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </div>
