@@ -18,7 +18,7 @@
 
 <!--:Profile views Counter!-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmadexe&label=Profile%20views&color=0e75b6&style=flat" alt="Ahmadexe" /> </p>
-<!-- 
+
 #
 <div align="center">
 <h3 align="center">My GitHub Stats!</h3>
@@ -29,7 +29,7 @@
   <br/>
   
      
-#      -->
+#     
 <!--:Social Media Links!-->
 <div align="center">
 <h3 align="center">Connect with me</h3>
