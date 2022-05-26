@@ -75,6 +75,8 @@
 <img src="https://img.shields.io/badge/OPENCV-808080?style=for-the-badge&logo=opencv&logoColor=white" />
 <img src="https://img.shields.io/badge/keras-FFFFFF?style=for-the-badge&logo=keras&logoColor=red" />
 <img src="https://img.shields.io/badge/VS-Code-FFFFFF?style=for-the-badge&logo=visualstudiocode&logoColor=blue"/>
+<img src="https://img.shields.io/badge/Bootstrap-FFFFFF?style=for-the-badge&logo=bootstrap&logoColor=purple"/>
+  
 <img src="https://camo.githubusercontent.com/80669e11bf3bc52895d6a03fb9745050bba5e0fdfecb2a6c6baea6d5dbbee275/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f2d3543324439312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f266c6f676f436f6c6f723d7768697465"/>
 
 </div>
