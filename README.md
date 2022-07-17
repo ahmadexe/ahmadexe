@@ -6,14 +6,14 @@
 
 <!--About myself!-->
 <p>
-  -  I’m currently working on <b>Python, Dart, Android Studio, Flutter, OpenCV, MediaPipe,Django.</b> <br>
--  I’m currently learning <b>Flutter, TensorFlow, Keras, PyTorch, ML, Deep learning, AI and Blockchain.</b> <br>
--  A freelance teacher, <b>teaching Python, C, C++, Dart, Java, Object Oriented Programming, Data Structures & Algorithms.</b> <br>
--  Leading <b>Programming team @IEEE CUI.</b> <br>
--  I’m looking to collaborate with any <b> Progressive </b> organization. <br>
--  Ask me about <b> Python, C/C++, Java, Dart, OpenCV. </b><br>
--  Reach me at: <b> muahmad710@gmail.com </b> <br>
--  Fun fact: I like discussing about <b>computers, football & physics</b>. <br>
+  - 👨🏻‍💻 I’m currently working on <b>Python, Dart, Android Studio, Flutter, OpenCV, MediaPipe,Django.</b> <br>
+- 👨🏻‍💻 I’m currently learning <b>Flutter, TensorFlow, Keras, PyTorch, ML, Deep learning, AI and Blockchain.</b> <br>
+- 👨🏻‍💻 A freelance teacher, <b>teaching Python, C, C++, Dart, Java, Object Oriented Programming, Data Structures & Algorithms.</b> <br>
+- 👨🏻‍💻 Leading <b>Programming team @IEEE CUI.</b> <br>
+- 👨🏻‍💻 I’m looking to collaborate with any <b> Progressive </b> organization. <br>
+- 👨🏻‍💻 Ask me about <b> Python, C/C++, Java, Dart, OpenCV. </b><br>
+- 👨🏻‍💻 Reach me at: <b> muahmad710@gmail.com </b> <br>
+- 👨🏻‍💻 Fun fact: I like discussing about <b>computers, football & physics</b>. <br>
 </p>
 
 <!--:Profile views Counter!-->
