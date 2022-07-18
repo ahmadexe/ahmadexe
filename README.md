@@ -55,6 +55,8 @@
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
 <img src="https://img.shields.io/badge/Android-Studio-FFD43B?style=for-the-badge&logo=android&logoColor=green" />
+<img src="https://img.shields.io/badge/MongoDB-FFFFFF?style=for-the-badge&logo=MongoDB&logoColor=darkgreen" />
+
 <img src="https://camo.githubusercontent.com/304dd09de5d554e98571a564abf04d0b8e3d9463f7c7f66398639722d81a5a37/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7375626c696d655f746578742d2532333537353735372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7375626c696d652d74657874266c6f676f436f6c6f723d696d706f7274616e74" />
 
 <img src="https://camo.githubusercontent.com/36f18d672255d9642f3e5ec4886605d43e5000a0c0495536f0d00208720278d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7079636861726d2d3134333f7374796c653d666f722d7468652d6261646765266c6f676f3d7079636861726d266c6f676f436f6c6f723d626c61636b26636f6c6f723d626c61636b266c6162656c436f6c6f723d677265656e" />
