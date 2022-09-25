@@ -14,7 +14,7 @@
 
 - 👨‍💼 Working on **Flutter, Flask, Django, OpenCV, Android Studio.**
 
-- 💬 Ask me about **Dart, C++, C, Java, Python, Flutter, Flask, OpenCV, Blockchain, Data Structure and Algorithm.**
+- 💬 Ask me about **Dart, Flutter, Firebase, C++, C, Java, Python, Flask, OpenCV, Blockchain, Data Structure and Algorithm.**
 
 - 📫 How to reach me **muahmad710@gmail.com**
 
