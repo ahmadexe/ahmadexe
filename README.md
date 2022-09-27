@@ -1,4 +1,4 @@
-<h1 align="center">cout<<"Hello World."</h1>
+<h1 align="center">cout<<"Hello World."<<endl;</h1>
 <h3 align="center">A programmer hoping to change the world one day!</h3>
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/code-gif-7.gif">
 
