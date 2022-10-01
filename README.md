@@ -1,5 +1,5 @@
 <h1 align="center">cout<<"Hello World";</h1>
-<h3 align="center">Making an attempt to severe the fate of this world through code.</h3>
+<h3 align="center">Making an attempt to sever the fate of this world through code.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/code-gif-7.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadexe&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadexe" /> </p>
