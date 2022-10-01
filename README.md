@@ -8,6 +8,8 @@
 
 - 💻 Former lead at **Programming team IEEE CUI.**
 
+- 🎓 Student Ambassador at **Huawei ICT Academy**
+
 - 🖊️ Teaching **Python, Java, Dart, C, C++, Data Structures and Algorithm, Mobile App Development, Backend Development.**
 
 - 🐱‍💻 Currently learning **Blockchain, Machine Learning, Artificial Intelligence, Flask, Django and Flutter.**
