@@ -4,6 +4,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadexe&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadexe" /> </p>
 
+- 🖥️ Software Engineer at [DeXplat](https://www.dexplat.com/home)
+
 - 🤝 Leading **IEEE Computer Society CUI.**
 
 - 💻 Former lead at **Programming team IEEE CUI.**
