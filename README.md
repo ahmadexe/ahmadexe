@@ -14,7 +14,7 @@
 
 - 🖊️ Teaching **Python, Java, Dart, C, C++, Data Structures and Algorithm, Mobile App Development, Backend Development.**
 
-- 🐱‍💻 Currently learning **Blockchain, Machine Learning, Artificial Intelligence, Flask, Django and Flutter.**
+- 🐱‍💻 Currently learning **Blockchain, Networks, Machine Learning, Artificial Intelligence, Flask, Django and Flutter.**
 
 - 👨‍💼 Working on **Flutter, Flask, Django, OpenCV, Android Studio.**
 
