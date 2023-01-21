@@ -3,8 +3,6 @@
 <h3 align="center">Making an attempt to sever the fate of this world through code.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/code-gif-7.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadexe&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadexe" /> </p>
-
 - 🖥️ Software Engineer at [DeXplat](https://www.dexplat.com/home)
 
 - 🤝 Leading **IEEE Computer Society CUI.**
@@ -46,3 +44,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadexe&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="ahmadexe" /></p> 
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/ahmadexe.svg)](https://user-badge.committers.top/pakistan/ahmadexe)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadexe&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadexe" /> </p>
