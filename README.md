@@ -1,3 +1,4 @@
+<img align="center" alt="Coding" width="1000" src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif">
 <h1 align="center">cout<<"Hello World";</h1>
 <h3 align="center">Making an attempt to sever the fate of this world through code.</h3>
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/code-gif-7.gif">
