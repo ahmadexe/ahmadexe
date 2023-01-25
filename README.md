@@ -40,8 +40,10 @@
 <h3 align="left">Stats 📈</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadexe&langs_count=10&hide=html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="ahmadexe" /></p>
 
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadexe&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="ahmadexe" /></p> 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmadexe&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="ahmadexe" /></p> 
+
 
 [![committers.top badge](https://user-badge.committers.top/pakistan/ahmadexe.svg)](https://user-badge.committers.top/pakistan/ahmadexe)
 
