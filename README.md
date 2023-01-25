@@ -45,4 +45,8 @@
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ahmadexe&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="ahmadexe" /></p> 
 </br>
 
+[![committers.top badge](https://user-badge.committers.top/pakistan/ahmadexe.svg)](https://user-badge.committers.top/pakistan/ahmadexe)
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadexe&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadexe" /> </p>
+
 
