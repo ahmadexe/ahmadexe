@@ -11,9 +11,9 @@
 
 - 🎓 Student Ambassador at **Huawei ICT Academy**
 
-- 🖊️ Teaching **Python, Java, Dart, C, C++, Data Structures and Algorithm, Mobile App Development, Backend Development.**
+- 🖊️ Teaching **Python, Java, Dart, C, C++, Data Structures and Algorithm, Mobile App Development.**
 
-- 🐱‍💻 Currently learning **Blockchain, Networks, Machine Learning, Artificial Intelligence, Flask, Django and Flutter.**
+- 🐱‍💻 Currently learning **Blockchain, Networks, Machine Learning, Artificial Intelligence, Flask, Django, Flutter, Dart Frog, Node js.**
 
 - 👨‍💼 Working on **Flutter, Flask, Django, OpenCV, Android Studio.**
 
