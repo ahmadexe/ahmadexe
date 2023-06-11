@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/code-gif-7.gif">
 
 
-- 👾 Leading iOS Development at [IEEE YESIST'12](https://ieeeyesist12.org/)
+- 👾 Leading iOS Development at [YESIST'12](https://ieeeyesist12.org/)
 
 - 🖥️ Software Engineer at [DeXplat](https://www.dexplat.com/home)
 
