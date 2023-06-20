@@ -14,14 +14,16 @@
 
 - 🎓 Student Ambassador at **Huawei ICT Academy**
 
-- 🖊️ Teaching **Python, Java, Dart, C, C++, Data Structures and Algorithm, Mobile App Development.**
+- 🖊️ Teaching **Dart, Flutter, Software Engineering, Data Structures and Algorithm, OOP, Mobile App Development.**
 
-- 🐱‍💻 Currently learning **Blockchain, Networks, Machine Learning, Artificial Intelligence, Flask, Django, Flutter, Dart Frog, Node js.**
+- 👨‍🎓 Currently learning **GO, Hyperledger Fabric, Gin, Blockchain, Machine Learning, Artificial Intelligence.**
 
-- 👨‍💼 Working on **Flutter, Flask, Django, OpenCV, Android Studio.**
+- 👨‍💼 Working on **Flutter, Firebase, Go, OpenCV, Android Studio.**
 
-- 💬 Ask me about **Dart, Flutter, Firebase, C++, C, Java, Python, Flask, OpenCV, Blockchain, Data Structure and Algorithm.**
-
+- 💬 Ask me about **Dart, Flutter, Firebase, Flask, OpenCV, Blockchain, Data Structure and Algorithm.**
+  
+- 🤝 Talk to me about football, physics or life.
+  
 - 📫 How to reach me **muahmad710@gmail.com**
 
 
