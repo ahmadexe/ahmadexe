@@ -22,7 +22,7 @@
 
 - 💬 Ask me about **Dart, Flutter, Firebase, Flask, OpenCV, Blockchain, Data Structure and Algorithm.**
   
-- 🤝 Talk to me about football, physics or life.
+- 🤝 Talk to me about football, computers or life.
   
 - 📫 How to reach me **muahmad710@gmail.com**
 
