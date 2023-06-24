@@ -8,11 +8,7 @@
 
 - 🖥️ Software Engineer at [DeXplat](https://www.dexplat.com/home)
 
-- 🤝 Leading **IEEE Computer Society CUI.**
-
-- 💻 Former lead at **Programming team IEEE CUI.**
-
-- 🎓 Student Ambassador at **Huawei ICT Academy**
+- 🤝 Former Chairperson at **IEEE Computer Society CUI.**
 
 - 🖊️ Teaching **Dart, Flutter, Software Engineering, Data Structures and Algorithm, OOP, Mobile App Development.**
 
