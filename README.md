@@ -8,7 +8,7 @@
 
 - 🖥️ Software Engineer at [DeXplat](https://www.dexplat.com/home)
 
-- 🤝 Former Chairperson at **IEEE Computer Society CUI.**
+- 🤝 Mentoring **IEEE Computer Society CUI.**
 
 - 🖊️ Teaching **Dart, Flutter, Software Engineering, Data Structures and Algorithm, OOP, Mobile App Development.**
 
