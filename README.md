@@ -10,6 +10,8 @@
 
 - 🤝 Mentoring **IEEE Computer Society CUI.**
 
+- 👨‍💻 Core team member at **Flutter Islamabad**
+
 - 🖊️ Teaching **Dart, Flutter, Software Engineering, Data Structures and Algorithm, OOP, Mobile App Development.**
 
 - 👨‍🎓 Currently learning **GO, Hyperledger Fabric, Gin, Blockchain, Machine Learning, Artificial Intelligence.**
