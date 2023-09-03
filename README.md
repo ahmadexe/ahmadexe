@@ -25,6 +25,7 @@
 - 📫 How to reach me **muahmad710@gmail.com**
 
 
+
 <h3 align="left">Connect with me 🤝</h3>
 <p align="left">
 <a href="https://twitter.com/ahmads_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmads_exe" height="30" width="40" /></a>
@@ -33,6 +34,17 @@
 <a href="https://fb.com/muhammad ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad ahmad" height="30" width="40" /></a>
 <a href="https://instagram.com/ahmads.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmads.exe" height="30" width="40" /></a>
 </p>
+
+
+
+<h3 align="left">My Medium Articles ✍🏻</h3>
+
+- [FlutterFire Push Notifications via FCM](https://medium.com/@ahmadexe/flutterfire-push-notifications-via-fcm-flutter-web-b475f3e0a5e2)
+
+- [FlutterGO: A Fullstack Master Class](https://medium.com/@ahmadexe/fluttergo-a-fullstack-master-class-20154dd1d0e5)
+  
+- [Flutter BloC: Building Block for Event Driven Apps](https://medium.com/@ahmadexe/flutter-bloc-building-block-for-event-driven-flutter-apps-191f11437b0)
+
 
 
 <h3 align="left">Languages and Tools 🛠️</h3>
