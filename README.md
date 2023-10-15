@@ -45,7 +45,7 @@
   
 - [Flutter BloC: Building Block for Event Driven Apps](https://medium.com/@ahmadexe/flutter-bloc-building-block-for-event-driven-flutter-apps-191f11437b0)
 
-- [Getting Start: How to Computer Science](https://medium.com/@ahmadexe/flutter-bloc-building-block-for-event-driven-flutter-apps-191f11437b0](https://medium.com/@ahmadexe/getting-started-how-to-computer-science-13bc1aee0e48))
+- [Getting Start: How to Computer Science](https://medium.com/p/13bc1aee0e48)
 
 
 
