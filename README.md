@@ -17,15 +17,15 @@
 ```
 
 
-- 👾 Lead Mobile Developer at [YESIST12](https://ieeeyesist12.org/)
+- 👾 Lead Mobile Developer at [YESIST12](https://ieeeyesist12.org/).
 
-- 🤖 Software Engineer at **Hareseca LLC**
+- 🤖 Software Engineer at **Hareseca LLC.**
 
-- 🖥️ Software Engineer at [DeXplat](https://www.dexplat.com/home)
+- 🖥️ Software Engineer at [DeXplat](https://www.dexplat.com/home).
 
 - 🤝 Mentoring **IEEE Computer Society CUI.**
 
-- 👨‍💻 Core team member at **Flutter Islamabad**
+- 👨‍💻 Core team member at **Flutter Islamabad.**
 
 - 🖊️ Teaching **Dart, Flutter, Software Engineering, Data Structures and Algorithm, OOP, Mobile App Development.**
 
@@ -39,7 +39,7 @@
   
 - 📫 How to reach me **muahmad710@gmail.com**
 
-- 📖 Follow me on Medium if you read tech articles [@ahmadexe](https://medium.com/@ahmadexe)
+- 📖 Follow me on Medium if you read tech articles [@ahmadexe](https://medium.com/@ahmadexe).
 
 - 🎙️ Find me speaking at Tech events, conferences, workshops, and bootcamps.
 
