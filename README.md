@@ -17,7 +17,7 @@
 ```
 
 
-- 👾 Lead Mobile Developer at [YESIST12](https://ieeeyesist12.org/).
+- 👾 Leading Mobile Development at [YESIST12](https://ieeeyesist12.org/).
 
 - 🤖 Software Engineer at **Hareseca LLC.**
 
