@@ -46,8 +46,8 @@
 
 ## Life Update
 - [x] Born
-- [x] Got a job
-- [ ] Got Married
+- [x] Get a job
+- [ ] Get Married
 - [ ] Have children
 - [ ] Die
 
