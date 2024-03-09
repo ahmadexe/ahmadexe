@@ -23,8 +23,6 @@
 
 - 🖥️ Software Engineer at [DeXplat](https://www.dexplat.com/home).
 
-- 🤝 Mentoring **IEEE Computer Society CUI.**
-
 - 👨‍💻 Core team member at **Flutter Islamabad.**
 
 - 🖊️ Teaching **Dart, Flutter, Software Engineering, Data Structures and Algorithm, OOP, Mobile App Development.**
