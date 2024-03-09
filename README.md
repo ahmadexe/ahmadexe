@@ -23,8 +23,6 @@
 
 - 🖥️ Software Engineer at [DeXplat](https://www.dexplat.com/home).
 
-- 👨‍💻 Core team member at **Flutter Islamabad.**
-
 - 🖊️ Teaching **Dart, Flutter, Software Engineering, Data Structures and Algorithm, OOP, Mobile App Development.**
 
 - 👨‍🎓 Currently learning **GO, Gin, Blockchain, Machine Learning, Artificial Intelligence, Google Cloud Platform, AWS.**
