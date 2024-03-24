@@ -25,9 +25,9 @@
 
 - 🖊️ Teaching **Dart, Flutter, Software Engineering, Data Structures and Algorithm, OOP, Mobile App Development.**
 
-- 👨‍🎓 Currently learning **GO, Gin, Blockchain, Machine Learning, Artificial Intelligence, Google Cloud Platform, AWS.**
+- 👨‍🎓 Currently learning **GO, Gin, AWS, AI/ML.**
 
-- 👨‍💼 Working on **Flutter, Firebase, Go, Gin, OpenCV, GCP, AWS.**
+- 👨‍💼 Working on **Flutter, Firebase, Go, Gin, AWS, OpenCV.**
 
 - 💬 Ask me about **Dart, Flutter, Firebase, Flask, OpenCV, Blockchain, Data Structure and Algorithm.**
   
