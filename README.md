@@ -17,11 +17,12 @@
 ```
 
 
-- 👾 Leading Mobile Development at [YESIST12](https://ieeeyesist12.org/).
 
 - 🤖 Software Engineer at **Hareseca LLC.**
 
-- 🖥️ Software Engineer at [DeXplat](https://www.dexplat.com/home).
+- 👾 Leading Mobile Development at [YESIST12](https://ieeeyesist12.org/).
+  
+- 🖥️ Ex [DeXplat](https://www.dexplat.com/home).
 
 - 🖊️ Teaching **Dart, Flutter, Software Engineering, Data Structures and Algorithm, OOP, Mobile App Development.**
 
