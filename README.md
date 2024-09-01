@@ -70,6 +70,8 @@
 
 - [Getting Start: How to Computer Science](https://medium.com/p/13bc1aee0e48)
 
+- [GO gRPC: Understanding gRPC with Go](https://medium.com/@ahmadexe/go-grpc-understanding-grpc-with-go-a-guide-to-inter-service-communication-ea7eb8749c60)
+
 
 
 ## Languages and Tools 🛠️
