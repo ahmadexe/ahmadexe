@@ -85,7 +85,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ahmadexe&&theme=github-dark-blue)](https://git.io/streak-stats)
 
-[![committers.top badge](https://user-badge.committers.top/pakistan/ahmadexe.svg)](https://user-badge.committers.top/pakistan/ahmadexe)
+[![committers.top badge](https://user-badge.committers.top/pakistan_private/ahmadexe.svg)](https://user-badge.committers.top/pakistan_private/ahmadexe)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmadexe&label=Profile%20views&color=0e75b6&style=flat" alt="ahmadexe" /> </p>
 
