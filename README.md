@@ -61,7 +61,6 @@
 
 
 ## My Medium Articles ✍🏻
-
 - [FlutterFire Push Notifications via FCM](https://medium.com/@ahmadexe/flutterfire-push-notifications-via-fcm-flutter-web-b475f3e0a5e2)
 
 - [FlutterGO: A Fullstack Master Class](https://medium.com/@ahmadexe/fluttergo-a-fullstack-master-class-20154dd1d0e5)
@@ -71,6 +70,13 @@
 - [Getting Start: How to Computer Science](https://medium.com/p/13bc1aee0e48)
 
 - [GO gRPC: Understanding gRPC with Go](https://medium.com/@ahmadexe/go-grpc-understanding-grpc-with-go-a-guide-to-inter-service-communication-ea7eb8749c60)
+
+
+## Trophies 🏆
+- First Position at Huawei ICT Innovation Competition'24, Riyadh, Saudi Arabia
+- Winner Visio Spark'24
+- Represnted Pakistan at Huawei Seeds for the Future'24, Tashkent, Uzbekistan
+- First Runner up Softec'24 - Mobile App Dev 
 
 
 
