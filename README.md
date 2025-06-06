@@ -21,14 +21,10 @@
 - 🤖 Software Engineer at **Hareseca LLC.**
 
 - 👾 Leading Mobile Development at [YESIST12](https://ieeeyesist12.org/).
-  
-- 🖥️ Ex [DeXplat](https://www.dexplat.com/home).
 
-- 🖊️ Teaching **Dart, Flutter, Software Engineering, Data Structures and Algorithm, OOP, Mobile App Development.**
+- 🖊️ Teaching **Dart, Flutter, Go (Golang), Mobile & Backend, Software Engineering, Data Structures and Algorithm, OOP, Mobile App Development.**
 
-- 👨‍🎓 Currently learning **GO, Gin, AWS, AI/ML.**
-
-- 👨‍💼 Working on **Flutter, Firebase, Go, Gin, AWS, OpenCV.**
+- 👨‍💼 Working on **Flutter, Firebase, Go, Gin, AWS, GCP**
 
 - 💬 Ask me about **Dart, Flutter, Firebase, Flask, OpenCV, Blockchain, Data Structure and Algorithm.**
   
