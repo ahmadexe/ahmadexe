@@ -72,7 +72,7 @@
 - First Position at Huawei ICT Innovation Competition'25, Global Finals, Shenzhen, China
 - First Position at Huawei ICT Innovation Competition'24, Regional Finals, Riyadh, Saudi Arabia
 - Winner Visio Spark'24
-- Represnted Pakistan at Huawei Seeds for the Future'24, Tashkent, Uzbekistan
+- Represented Pakistan at Huawei Seeds for the Future'24, Tashkent, Uzbekistan
 - First Runner up Softec'24 - Mobile App Dev 
 
 
