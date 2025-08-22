@@ -20,8 +20,6 @@
 
 - 🤖 Software Engineer at **Hareseca LLC.**
 
-- 👾 Leading Mobile Development at [YESIST12](https://ieeeyesist12.org/).
-
 - 🖊️ Teaching **Dart, Flutter, Go (Golang), Mobile & Backend, Software Engineering, Data Structures and Algorithm, OOP, Mobile App Development.**
 
 - 👨‍💼 Working on **Flutter, Firebase, Go, Gin, AWS, GCP**
