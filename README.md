@@ -16,20 +16,19 @@
                  /___/                /___/       
 ```
 
+- Teaching **Dart, Flutter, Go (Golang), Mobile & Backend, Software Engineering, Data Structures and Algorithm, OOP, Mobile App Development.**
 
-- 🖊️ Teaching **Dart, Flutter, Go (Golang), Mobile & Backend, Software Engineering, Data Structures and Algorithm, OOP, Mobile App Development.**
+- Working on **Flutter, Firebase, Go, Gin, AWS, GCP**
 
-- 👨‍💼 Working on **Flutter, Firebase, Go, Gin, AWS, GCP**
-
-- 💬 Ask me about **Dart, Flutter, Firebase, Flask, OpenCV, Blockchain, Data Structure and Algorithm.**
+- Ask me about **Go, Dart, Flutter, Firebase, Flask, OpenCV, Blockchain, Data Structure and Algorithm.**
   
-- 🤝 Talk to me about football, computers or life.
+- Talk to me about football, chess, computers or life.
   
-- 📫 How to reach me **muahmad710@gmail.com**
+- How to reach me **muahmad710@gmail.com**
 
-- 📖 Follow me on Medium if you read tech articles [@ahmadexe](https://medium.com/@ahmadexe).
+- Follow me on Medium if you read tech articles [@ahmadexe](https://medium.com/@ahmadexe).
 
-- 🎙️ Find me speaking at Tech events, conferences, workshops, and bootcamps.
+- Find me speaking at Tech events, conferences, workshops, and bootcamps.
 
 
 ## Life Update
@@ -40,7 +39,7 @@
 - [ ] Die
 
 
-## Connect with me 🤝
+## Connect with me 
 <p align="center">
 <a href="https://twitter.com/ahmads_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmads_exe" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-ahmad-25155a1b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ahmad-25155a1b0" height="30" width="40" /></a>
@@ -51,7 +50,7 @@
 
 
 
-## My Medium Articles ✍🏻
+## My Medium Articles
 - [FlutterFire Push Notifications via FCM](https://medium.com/@ahmadexe/flutterfire-push-notifications-via-fcm-flutter-web-b475f3e0a5e2)
 
 - [FlutterGO: A Fullstack Master Class](https://medium.com/@ahmadexe/fluttergo-a-fullstack-master-class-20154dd1d0e5)
@@ -72,14 +71,14 @@
 
 
 
-## Languages and Tools 🛠️
+## Languages and Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,go,mongodb,postgresql,redis,kafka,aws,gcp,docker,kubernetes,firebase,supabase"/>
     <img src="https://skillicons.dev/icons?i=linux,python,django,opencv,postman,androidstudio,bash,git,kali,tensorflow,cpp,c,vscode"/><br>
 </div>
 
 
-## Stats 📈
+## Stats
 <p><img height=180em align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadexe&langs_count=10&hide=cmake,html&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="ahmadexe" /></p>
 
 <p>&nbsp;<img height=180em align="center" src="https://github-readme-stats.vercel.app/api?username=ahmadexe&theme=github_dark&count_private=true&show_icons=true&locale=en" alt="ahmadexe" /></p> 
