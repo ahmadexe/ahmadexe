@@ -39,17 +39,6 @@
 - [ ] Die
 
 
-## Connect with me 
-<p align="center">
-<a href="https://twitter.com/ahmads_exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmads_exe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammad-ahmad-25155a1b0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-ahmad-25155a1b0" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/15826198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="15826198" height="30" width="40" /></a>
-<a href="https://fb.com/muhammad ahmad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="muhammad ahmad" height="30" width="40" /></a>
-<a href="https://instagram.com/ahmads.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ahmads.exe" height="30" width="40" /></a>
-</p>
-
-
-
 ## My Medium Articles
 - [FlutterFire Push Notifications via FCM](https://medium.com/@ahmadexe/flutterfire-push-notifications-via-fcm-flutter-web-b475f3e0a5e2)
 
