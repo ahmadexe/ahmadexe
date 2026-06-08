@@ -14,16 +14,7 @@
  / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
 /___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
                  /___/                /___/       
-```
-
-- Teaching **Dart, Flutter, Go (Golang), Mobile & Backend, Software Engineering, Data Structures and Algorithm, OOP, Mobile App Development.**
-
-- Working on **Flutter, Firebase, Go, Gin, AWS, GCP**
-
-- Ask me about **Go, Dart, Flutter, Firebase, Flask, OpenCV, Blockchain, Data Structure and Algorithm.**
-  
-- Talk to me about football, chess, computers or life.
-  
+```    
 - How to reach me **muahmad710@gmail.com**
 
 - Follow me on Medium if you read tech articles [@ahmadexe](https://medium.com/@ahmadexe).
@@ -74,10 +65,6 @@
 <p align="center">
   <img src="https://v0-git-hub-streak-score-card-phi.vercel.app/api/card-with-avatar?username=ahmadexe&theme=%7B%22backgroundColor%22%3A%22%230D1117%22%2C%22textColor%22%3A%22%23FFFFFF%22%2C%22accentColor%22%3A%22%2300A3FF%22%2C%22borderColor%22%3A%22%23161B22%22%2C%22waterColor%22%3A%22%2300A3FF%22%2C%22streakColor%22%3A%22%2300A3FF%22%7D&t=1" height="300" width="650"/>
 </p>
-
-
-
-
 
 <p align="center">
   <img src="https://github-readme-stats-ten-neon-28.vercel.app//api?username=ahmadexe&show_icons=true&title_color=00A3FF&icon_color=00A3FF&text_color=FFFFFF&bg_color=0D1117,001C6C,000000" height="150"/>
